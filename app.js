@@ -60,4 +60,4 @@ Client.on("message", async (message) => {
 
 });
 
-Client.login("NTA5Mzg1MTQ1NzMyODI1MDk5.Dt6dPA.hWC-D7IU28Y-cpudT0-fV4cQQrk");
+Client.login("NTA5Mzg1MTQ1NzMyODI1MDk5.Dt6nXw.Vhe5ZJ8_EcBuhClCDISmMaNn6Ko");
